@@ -1,0 +1,36 @@
+body
+{
+     margin: 0;
+     display: flex;
+     align-items: center;
+     height: 100vh;
+     justify-content: center;
+     background-color: pink;
+     flex-direction: column;
+}
+h1{
+    font-size: 50px;
+    font-family: sans-serif;
+    letter-spacing: 4px;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    white-space: nowrap;
+}
+.btn
+{
+     padding: 30px 50px;
+     background-color: white;
+     border: none;
+     border-radius: 5px;
+     margin: 3px;
+     font-size: 30px;
+     font-family: sans-serif;
+     min-width: 200px;
+     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+.container
+{
+    text-align: center;
+}
+
+
